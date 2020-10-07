@@ -3,3 +3,9 @@
   height: 37px;
   position: relative;
 }
+
+.header__backet:hover {
+  cursor: pointer;
+  transition: .2s;
+  opacity: .5;
+}

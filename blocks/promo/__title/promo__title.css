@@ -1,3 +1,9 @@
 .promo__title {
-
+  font-weight: bold;
+  font-size: 144px;
+  line-height: 152px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  margin: 0 0 24px 0;
+  padding: 0;
 }

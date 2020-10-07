@@ -1,6 +1,13 @@
+@import url('./__container/promo__container.css');
 @import url('./__title/promo__title.css');
 @import url('./__subtitle/promo__subtitle.css');
+@import url('./__description-title/promo__description-title.css');
+@import url('./promo__description/promo__description.css');
 
 .promo {
-
+  background: #FCDA28;
+  font-family: 'Rubik', 'Arial', sans-serif;
+  display: flex;
+  padding: 96px 64px;
+  position: relative;
 }

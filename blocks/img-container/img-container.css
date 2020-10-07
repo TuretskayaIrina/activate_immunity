@@ -1,3 +1,10 @@
-.img-container {
+@import url('./__element/img-container__element.css');
 
+.img-container {
+  width: 816px;
+  height: 904px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 10;
 }
