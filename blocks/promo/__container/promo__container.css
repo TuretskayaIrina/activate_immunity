@@ -1,4 +1,6 @@
 .promo__container {
-  max-width: 70%;
-  z-index: 11;
+  max-width: 1312px;
+  position: relative;
+  margin: 0 auto;
+  padding: 96px 0;
 }
