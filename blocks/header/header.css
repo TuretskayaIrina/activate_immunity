@@ -1,0 +1,17 @@
+@import url('./__logo/header__logo.css');
+@import url('./__nav/header__nav.css');
+@import url('./__nav-links/header__nav-links.css');
+@import url('./__nav-link/header__nav-link.css');
+@import url('./__backet/header__backet.css');
+@import url('./__backet-element/header__backet-element.css');
+@import url('./__backet-count/header__backet-count.css');
+
+.header {
+  font-family: 'Rubik', 'Arial', sans-serif;
+  min-height: 80px;
+  background: #111111;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 64px;
+}

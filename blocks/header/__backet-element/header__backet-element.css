@@ -1,0 +1,10 @@
+.header__backet-element {
+  background-image: url('../../../images/basket.svg');
+  background-repeat: no-repeat;
+  width: 32px;
+  height: 28px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
