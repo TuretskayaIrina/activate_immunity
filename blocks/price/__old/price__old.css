@@ -1,0 +1,7 @@
+.price__old {
+  font-size: 36px;
+  line-height: 43px;
+  color: #ADADAD;
+  margin: 0 32px 0 0;
+  text-decoration: line-through;
+}

@@ -1,0 +1,8 @@
+@import url('./__old/price__old.css');
+@import url('./__new/price__new.css');
+
+.price {
+  display: flex;
+  align-items: center;
+  margin: 85px 0 60px 0;
+}

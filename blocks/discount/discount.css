@@ -1,4 +1,9 @@
+@import url('./__container/discount__container.css');
+@import url('./__title/discount__title.css');
+@import url('./__title/_span/discount__title_span.css');
+
 .discount {
   background: #111111;
   font-family: 'Rubik', 'Arial', sans-serif;
+  padding: 110px 0;
 }

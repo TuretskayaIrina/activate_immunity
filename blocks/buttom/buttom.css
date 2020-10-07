@@ -1,0 +1,17 @@
+.buttom {
+  font-family: 'Rubik', 'Arial', sans-serif;
+  font-size: 18px;
+  color: #000000;
+  background: #FCB500;
+  border: none;
+  border-radius: 7px;
+  width: 256px;
+  height: 56px;
+  text-align: center;
+}
+
+.buttom:hover {
+  cursor: pointer;
+  transition: .2s;
+  opacity: .5;
+}
