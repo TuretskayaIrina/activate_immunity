@@ -6,8 +6,8 @@
 @import url('./__span/_big/advantages__span_big.css');
 
 .advantages {
-  display: grid;
-  grid-template-columns: 1fr 2fr 1fr;
-  grid-column-gap: 111px;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
   margin-bottom: 64px;
 }

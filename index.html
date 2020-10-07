@@ -12,13 +12,13 @@
       <div class="header__logo"></div>
 
       <nav class="header__nav">
-        <ul class="header__nav-links">
-          <li><a href="#" class="header__nav-link">FAQ</a></li>
-          <li><a href="#" class="header__nav-link">Оплата и доставка</a></li>
-          <li><a href="#" class="header__nav-link">Возврат</a></li>
-          <li><a href="#" class="header__nav-link">Исследования</a></li>
-          <li><a href="#" class="header__nav-link">Личный кабинет</a></li>
-          <li><a href="tel:+888006000990" class="header__nav-link">8 8 (800) 600-09-90</a></li>
+        <ul class="header__nav-list">
+          <li class="header__nav-item"><a class="header__nav-link" href="#">FAQ</a></li>
+          <li class="header__nav-item"><a class="header__nav-link" href="#">Оплата и доставка</a></li>
+          <li class="header__nav-item"><a class="header__nav-link" href="#">Возврат</a></li>
+          <li class="header__nav-item"><a class="header__nav-link" href="#">Исследования</a></li>
+          <li class="header__nav-item"><a class="header__nav-link" href="#">Личный кабинет</a></li>
+          <li class="header__nav-item"><a class="header__nav-link" href="tel:+888006000990">8 8 (800) 600-09-90</a></li>
         </ul>
       </nav>
 
@@ -42,11 +42,15 @@
           <p class="promo__description">Вашему организму во время пандемии и сезонных простуд</p>
         </div>
 
-        <div class="img-container">
+        <!-- <div class="img-container">
           <img class="img-container__element img-container__element_ginger" src="./images/ginger.png" alt="имбирь">
           <img class="img-container__element img-container__element_nootris" src="./images/nootris.png" alt="нутрис">
           <img class="img-container__element img-container__element_lemon" src="./images/Lemon.png" alt="лимон">
-        </div>
+        </div> -->
+
+        <!-- <div class="img-container"></div> -->
+        <!-- <div class="promo__bg"></div> -->
+        <img class="promo__bg" src="./images/main_bg.png" alt="bg">
       </div>
 
 
@@ -60,7 +64,10 @@
         <span class="discount__title discount__title_span">Со скидкой -15% первым!</span>
 
         <div class="price">
-          <p class="price__old">750₽</p>
+          <div class="price__old">
+            <p class="price__old-count">750₽</p>
+            <div class="price__line"></div>
+          </div>
           <p class="price__new">690₽</p>
         </div>
 

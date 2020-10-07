@@ -3,5 +3,6 @@
 
 
 .advantages__img {
-
+  height: auto;
+  width: 100%;
 }

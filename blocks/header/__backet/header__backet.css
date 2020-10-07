@@ -9,3 +9,17 @@
   transition: .2s;
   opacity: .5;
 }
+
+@media (max-width: 1260px) {
+  .header__backet {
+    width: 35px;
+    height: 32px;
+  }
+}
+
+@media (max-width: 1150px) {
+  .header__backet {
+    width: 30px;
+    height: 27px;
+  }
+}

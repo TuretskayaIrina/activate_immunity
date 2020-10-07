@@ -1,0 +1,7 @@
+.price__old-count {
+  font-size: 36px;
+  line-height: 43px;
+  color: #ADADAD;
+  position: relative;
+  z-index: 14;
+}

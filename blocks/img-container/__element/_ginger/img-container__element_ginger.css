@@ -1,5 +1,26 @@
-.img-container__element_ginger {
+/* .img-container__element_ginger {
   bottom: 222px;
   right: 0;
   z-index: 3;
+}
+
+@media (max-width: 1260px) {
+  .img-container__element_ginger  {
+    width: 67.5%;
+    height: auto;
+  }
+} */
+
+.img-container__element_ginger {
+  background: url('../../../../images/ginger.png');
+  bottom: 222px;
+  right: 0;
+  z-index: 3;
+}
+
+@media (max-width: 1260px) {
+  .img-container__element_ginger  {
+    width: 67.5%;
+    height: auto;
+  }
 }

@@ -1,4 +1,6 @@
 @import url('./__old/price__old.css');
+@import url('./__old-count/price__old-count.css');
+@import url('./__line/price__line.css');
 @import url('./__new/price__new.css');
 
 .price {

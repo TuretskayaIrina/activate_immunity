@@ -1,10 +1,18 @@
 .header__backet-count {
   background-image: url('../../../images/count.svg');
   background-repeat: no-repeat;
+  background-size: contain;
   width: 16px;
   height: 16px;
   position: absolute;
   bottom: 0;
   right: 0;
   z-index: 2;
+}
+
+@media (max-width: 1150px) {
+  .header__backet-count {
+    width: 11px;
+    height: 11px;
+  }
 }

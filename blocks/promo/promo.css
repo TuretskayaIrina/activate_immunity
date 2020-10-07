@@ -4,12 +4,14 @@
 @import url('./__subtitle/promo__subtitle.css');
 @import url('./__description-title/promo__description-title.css');
 @import url('./promo__description/promo__description.css');
+@import url('./promo__bg/promo__bg.css');
 
 .promo {
   background: #FCDA28; /*заглушка, если фоновая картинка слетит*/
   background-image: url('../../images/bg.jpg');
   background-size: cover;
   background-position: center;
+  background-position-y: -80px;
   font-family: 'Rubik', 'Arial', sans-serif;
   display: flex;
   position: relative;
