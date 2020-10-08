@@ -1,8 +1,0 @@
-@import url('./_ginger/img-container__element_ginger.css');
-@import url('./_nootris/img-container__element_nootris.css');
-@import url('./_lemon/img-container__element_lemon.css');
-
-.img-container__element {
-  position: absolute;
-
-}
