@@ -1,0 +1,14 @@
+@media (max-width: 750px) {
+  .mobile-menu__link {
+    font-size: 11px;
+    line-height: 13px;
+    text-decoration: none;
+    color: #fff;
+  }
+
+  .mobile-menu__link:hover {
+    cursor: pointer;
+    transition: .2s;
+    opacity: .5;
+  }
+}

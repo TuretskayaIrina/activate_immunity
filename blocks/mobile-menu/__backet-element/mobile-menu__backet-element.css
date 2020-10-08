@@ -1,0 +1,13 @@
+@media (max-width: 750px) {
+  .mobile-menu__backet-element{
+    background-image: url('../../../images/basket.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 80%;
+    height: 75%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+  }
+}

@@ -1,0 +1,14 @@
+@media (max-width: 750px) {
+  .mobile-menu__backet {
+    width: 30px;
+    height: 27px;
+    position: relative;
+    margin: 0 auto;
+  }
+
+  .mobile-menu__backet:hover {
+    cursor: pointer;
+    transition: .2s;
+    opacity: .5;
+  }
+}

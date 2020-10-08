@@ -16,3 +16,9 @@
     height: 11px;
   }
 }
+
+@media (max-width: 750px) {
+  .header__backet-count {
+    display: none;
+  }
+}

@@ -1,0 +1,10 @@
+@media (max-width: 750px) {
+  .mobile-menu__logo{
+    background-image: url('../../../images/logo.svg');
+    width: 112px;
+    height: 27px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}

@@ -6,9 +6,9 @@
   margin: 0 auto;
 }
 
-@media (max-width: 750px) {
+/* @media (max-width: 750px) {
   .header__container  {
     flex-direction: column;
     text-align: center;
   }
-}
+} */

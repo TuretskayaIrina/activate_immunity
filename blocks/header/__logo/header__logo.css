@@ -16,6 +16,6 @@
 
 @media (max-width: 750px) {
   .header__logo {
-    margin-bottom: 10px;
+    display: none;
   }
 }

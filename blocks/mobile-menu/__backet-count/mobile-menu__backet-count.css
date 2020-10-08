@@ -1,0 +1,13 @@
+@media (max-width: 750px) {
+  .mobile-menu__backet-count {
+    background-image: url('../../../images/count.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 11px;
+    height: 11px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 2;
+  }
+}

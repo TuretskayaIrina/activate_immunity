@@ -23,3 +23,9 @@
     height: 27px;
   }
 }
+
+@media (max-width: 750px) {
+  .header__backet {
+    display: none;
+  }
+}

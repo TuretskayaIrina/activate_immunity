@@ -1,0 +1,6 @@
+@media (max-width: 750px) {
+  .mobile-menu__item {
+    font-size: 26px;
+    padding-bottom: 15px;
+  }
+}
