@@ -4,3 +4,10 @@
   padding: 0;
   margin: 0;
 }
+
+@media (max-width: 750px) {
+  .header__nav-list  {
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+}

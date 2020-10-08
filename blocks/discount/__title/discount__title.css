@@ -6,3 +6,17 @@
   text-transform: uppercase;
   margin: 0;
 }
+
+@media (max-width: 1150px) {
+  .discount__title {
+    font-size: 28px;
+    line-height: 37px;
+  }
+}
+
+@media (max-width: 500px) {
+  .discount__title {
+    font-size: 15px;
+    line-height: 25px;
+  }
+}

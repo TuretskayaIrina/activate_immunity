@@ -3,3 +3,17 @@
   line-height: 28px;
   color: #FCB500;
 }
+
+@media (max-width: 1150px) {
+  .advantages__span_big {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}
+
+@media (max-width: 900px) {
+  .advantages__span_big {
+    font-size: 14px;
+    line-height: 18px;
+  }
+}

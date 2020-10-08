@@ -7,3 +7,32 @@
   margin: 0 0 24px 0;
   padding: 0;
 }
+
+@media (max-width: 1150px) {
+  .promo__title {
+    font-size: 114px;
+    line-height: 122px;
+  }
+}
+
+@media (max-width: 900px) {
+  .promo__title {
+    font-size: 70px;
+    line-height: 90px;
+  }
+}
+
+
+@media (max-width: 750px) {
+  .promo__title {
+    font-size: 55px;
+    line-height: 75px;
+  }
+}
+
+@media (max-width: 500px) {
+  .promo__title {
+    font-size: 30px;
+    line-height: 40px;
+  }
+}

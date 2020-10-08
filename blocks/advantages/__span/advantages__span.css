@@ -4,3 +4,17 @@
   color: #FCB500;
   margin: 0;
 }
+
+@media (max-width: 1150px) {
+  .advantages__span {
+    font-size: 16px;
+    line-height: 16px;
+  }
+}
+
+
+@media (max-width: 900px) {
+  .advantages__span {
+    font-size: 13px;
+  }
+}

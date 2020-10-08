@@ -12,3 +12,9 @@
   transition: .2s;
   opacity: .5;
 }
+
+@media (max-width: 900px) {
+  .footer__author {
+    font-size: 13px;
+  }
+}

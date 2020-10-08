@@ -4,3 +4,11 @@
   color: #FFFFFF;
   margin: 0 0 0 32px;
 }
+
+@media (max-width: 500px) {
+  .price__new {
+    font-size: 28px;
+    line-height: 37px;
+    margin-left: 20px;
+  }
+}

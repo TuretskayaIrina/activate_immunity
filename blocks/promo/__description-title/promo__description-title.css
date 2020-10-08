@@ -5,3 +5,31 @@
   color: #000000;
   margin: 0 0 16px 0;
 }
+
+@media (max-width: 1150px) {
+  .promo__description-title {
+    font-size: 31px;
+    line-height: 38px;
+  }
+}
+
+@media (max-width: 900px) {
+  .promo__description-title {
+    font-size: 26px;
+    line-height: 33px;
+  }
+}
+
+@media (max-width: 750px) {
+  .promo__description-title {
+    font-size: 21px;
+    line-height: 28px;
+  }
+}
+
+@media (max-width: 500px) {
+  .promo__description-title {
+    font-size: 16px;
+    line-height: 23px;
+  }
+}

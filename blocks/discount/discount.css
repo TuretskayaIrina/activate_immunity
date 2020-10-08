@@ -7,3 +7,15 @@
   font-family: 'Rubik', 'Arial', sans-serif;
   padding: 110px 0;
 }
+
+@media (max-width: 1150px) {
+  .discount {
+    padding: 50px 0;
+  }
+}
+
+@media (max-width: 500px) {
+  .discount {
+    padding: 20px 0;
+  }
+}

@@ -4,4 +4,12 @@
   color: #ADADAD;
   position: relative;
   z-index: 14;
+  margin: 0;
+}
+
+@media (max-width: 500px) {
+  .price__old-count {
+    font-size: 18px;
+    line-height: 27px;
+  }
 }

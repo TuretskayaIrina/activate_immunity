@@ -1,6 +1,31 @@
 .promo__bg {
+  width: 54%;
+  max-width: 708px;
+  height: auto;
   position: absolute;
-  right: 0;
+  right: 10px;
   bottom: -112px;
   z-index: 10;
+}
+
+@media (max-width: 1150px) {
+  .promo__bg {
+    bottom: -62px;
+    max-width: 500px;
+  }
+}
+
+@media (max-width: 750px) {
+  .promo__bg {
+    max-width: 300px;
+  }
+}
+
+@media (max-width: 500px) {
+  .promo__bg {
+    top: 20px;
+    bottom: 0;
+    right: 0;
+    max-width: 160px;
+  }
 }

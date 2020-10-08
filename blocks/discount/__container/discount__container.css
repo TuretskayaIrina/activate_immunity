@@ -5,3 +5,9 @@
   margin: 0 auto;
   align-items: center;
 }
+
+@media (max-width: 900px) {
+  .discount__container {
+    width: 91%;
+  }
+}

@@ -4,3 +4,17 @@
   color: #FFFFFF;
   margin-bottom: 8px;
 }
+
+@media (max-width: 1150px) {
+  .advantages__description_big {
+    font-size: 31px;
+    line-height: 38px;
+  }
+}
+
+@media (max-width: 900px) {
+  .advantages__description_big {
+    font-size: 21px;
+    line-height: 28px;
+  }
+}

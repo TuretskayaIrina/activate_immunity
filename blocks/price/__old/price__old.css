@@ -5,3 +5,9 @@
   justify-content: center;
   width: 112px;
 }
+
+@media (max-width: 500px) {
+  .price__old {
+    width: 55px;
+  }
+}

@@ -5,3 +5,15 @@
   padding: 96px 0;
   display: flex;
 }
+
+@media (max-width: 1150px) {
+  .promo__container {
+    padding: 50px 0;
+  }
+}
+
+@media (max-width: 500px) {
+  .promo__container {
+    padding: 20px 0;
+  }
+}

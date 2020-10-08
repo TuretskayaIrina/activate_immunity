@@ -5,3 +5,34 @@
   color: #000000;
   margin: 0 0 120px 0;
 }
+
+@media (max-width: 1150px) {
+  .promo__subtitle {
+    font-size: 19px;
+    line-height: 23px;
+    margin-bottom: 90px;
+  }
+}
+
+@media (max-width: 900px) {
+  .promo__subtitle {
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 80px;
+  }
+}
+
+@media (max-width: 750px) {
+  .promo__subtitle {
+    font-size: 9px;
+    line-height: 13px;
+  }
+}
+
+@media (max-width: 500px) {
+  .promo__subtitle {
+    margin-bottom: 40px;
+  }
+}
+
+
